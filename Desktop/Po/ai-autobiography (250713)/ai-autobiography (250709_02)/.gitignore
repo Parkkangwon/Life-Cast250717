@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/hooked-on.github.io-main
 
 # next.js
 /.next/
